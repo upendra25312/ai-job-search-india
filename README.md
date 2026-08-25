@@ -20,7 +20,7 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 ## Does it actually work?
 
-I lead career and job-search consulting through [mypivot.work](https://mypivot.work). This fork started as the tool I built to run my own job search, and it's now the same `/scrape`, `/apply`, and `/interview` workflow I run in client engagements - adapted for the Indian job market and verified against live Indian job listings (see "Searching for jobs in India" below).
+I mentor on career and job-search strategy through [mypivot.work](https://mypivot.work). This fork started as the tool I built to run my own job search, and it's now the same `/scrape`, `/apply`, and `/interview` workflow I use in mentoring engagements - adapted for the Indian job market and verified against live Indian job listings (see "Searching for jobs in India" below).
 
 Results vary by client, role, and market, so I won't claim one flashy number here. What it reliably does: every application gets evaluated for fit, tailored, and reviewed before it goes out, and every interview gets prepped from real profile data instead of generic advice.
 
