@@ -20,11 +20,11 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 ## Does it actually work?
 
-I'm a geophysicist by training. When my position was cut in late 2025, I built this framework to run my own job search - the same `/scrape`, `/apply`, and `/interview` workflow in this repo, used weekly, on my own career. I was upfront about it with every employer I spoke to, and instead of counting against me, it usually sparked a genuine technical conversation.
+I'm a Platform & Cloud Architecture leader (Azure), not a developer by background. When Rackspace Technology restructured in August 2026 and my role was cut - a broader company decision, not a performance issue - I forked this framework to run my own search: the same `/scrape`, `/apply`, and `/interview` workflow in this repo, adapted for the Indian job market and verified against live Indian job listings (see "Searching for jobs in India" below).
 
-Sixty-nine tailored applications, twenty first interviews, and one signed contract later, I started as an AI engineer in June 2026. People kept asking whether this actually works. It got me hired. Now it's yours.
+I'm still in the middle of that search as I write this - no signed offer yet, so I won't claim a hired-outcome number the way the original author could. What I can say honestly: it's doing the actual work of tailoring each application and prepping each interview, not a one-off resume dump, and that's the part that was eating my Sundays before. If it helps your search the way it's helping mine, it did its job. I'll update this once mine resolves.
 
-*The longer version, including the full application funnel, is on [LinkedIn](https://www.linkedin.com/in/mads-lorentzen/).*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/upendra-kumar-azure-ai/).*
 
 <p align="center">
   <i>Did this save you a Sunday of cover-letter writing? Consider a coffee.<br>
