@@ -20,11 +20,11 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 
 ## Does it actually work?
 
-I'm a Platform & Cloud Architecture leader (Azure), not a developer by background. When Rackspace Technology restructured in August 2026 and my role was cut - a broader company decision, not a performance issue - I forked this framework to run my own search: the same `/scrape`, `/apply`, and `/interview` workflow in this repo, adapted for the Indian job market and verified against live Indian job listings (see "Searching for jobs in India" below).
+I lead career and job-search consulting through [mypivot.work](https://mypivot.work). This fork started as the tool I built to run my own job search, and it's now the same `/scrape`, `/apply`, and `/interview` workflow I run in client engagements - adapted for the Indian job market and verified against live Indian job listings (see "Searching for jobs in India" below).
 
-I'm still in the middle of that search as I write this - no signed offer yet, so I won't claim a hired-outcome number the way the original author could. What I can say honestly: it's doing the actual work of tailoring each application and prepping each interview, not a one-off resume dump, and that's the part that was eating my Sundays before. If it helps your search the way it's helping mine, it did its job. I'll update this once mine resolves.
+Results vary by client, role, and market, so I won't claim one flashy number here. What it reliably does: every application gets evaluated for fit, tailored, and reviewed before it goes out, and every interview gets prepped from real profile data instead of generic advice.
 
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/upendra-kumar-azure-ai/).*
+*Work with me through [mypivot.work](https://mypivot.work), or connect on [LinkedIn](https://www.linkedin.com/in/upendra-kumar-azure-ai/).*
 
 <p align="center">
   <i>Did this save you a Sunday of cover-letter writing? Consider a coffee.<br>
